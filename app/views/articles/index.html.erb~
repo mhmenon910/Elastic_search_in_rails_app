@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Listing Articles</h1>
-<h2><%= link_to 'Search',search_url%></h2>
+<h2><%= link_to 'Search',search_url%></h2?
 <table>
   <thead>
     <tr>
