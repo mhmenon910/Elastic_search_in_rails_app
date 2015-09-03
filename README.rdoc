@@ -1,1 +1,1 @@
-== Elastic Search in Ruby on Rails 4 application
+==Simple application showing Elastic Search in Ruby on Rails 4 application
